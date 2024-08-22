@@ -21,3 +21,6 @@ h. Besides our initial commit if it is a new repository, should we directly push
 =======
 what if I made a change and wanted to reflect it on my end?
 >>>>>>> origin/main
+
+
+trying things on the web for pull
