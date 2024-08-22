@@ -1,5 +1,6 @@
 Hello, welcome to my empty repository.
 
+<<<<<<< HEAD
 a. What is an issue?
 
 -It's a feature that allows us to keep track of and manage requests on projects in github.
@@ -17,3 +18,6 @@ f. What does git diff do?
 g. What is the main branch?
 
 h. Besides our initial commit if it is a new repository, should we directly push our changes directly into the main branch?
+=======
+what if I made a change and wanted to reflect it on my end?
+>>>>>>> origin/main
